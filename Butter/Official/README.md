@@ -3,11 +3,12 @@
 Applies to this folder ... and all derivatives
 
 ----
-
+    Butter Project Restricted Use Logo Copyright Holders:
+    
     Copyright (c) 2016 Butter Project
     Copyright (c) 2016 Niv Sardi <x@btn.sh>
-    logo(s) designed by Baltazar Gomez <btzr.io@gmail.com>
-                    and Jean Van Kasteel <vankasteelj@gmail.com>
+    Copyright (c) 2016 Baltazar Gomez <btzr.io@gmail.com>
+    Copyright (c) 2016 Jean Van Kasteel <vankasteelj@gmail.com>
 
     1. Artworks in this folder may only be used if:
      - official approval is given by Butter for its use in a defined purpose.
