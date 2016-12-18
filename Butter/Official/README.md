@@ -1,16 +1,13 @@
 ### Butter Restricted Use Logo License
 
-Applies to this folder: 
-- Butter_concept_artwork.svg
-- butter_concepts.jpg
-- ... and all derivatives
+Applies to this folder ... and all derivatives
 
 ----
 
     Copyright (c) 2016 Butter Project
     Copyright (c) 2016 Niv Sardi <x@btn.sh>
     logo(s) designed by Baltazar Gomez <btzr.io@gmail.com>
-
+                    and Jean Van Kasteel <vankasteelj@gmail.com>
 
     1. This logo may only be used if:
      - official approval is given by Butter for its use in a defined purpose.
