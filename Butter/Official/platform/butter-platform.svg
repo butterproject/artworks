@@ -303,7 +303,7 @@
      inkscape:cx="55.643699"
      inkscape:cy="573.60673"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4684"
      showgrid="false"
      inkscape:window-width="3200"
      inkscape:window-height="1671"
@@ -485,58 +485,61 @@
        id="g4684"
        transform="translate(14.19363,16.029777)">
       <g
-         id="g4624">
+         id="g5193">
         <g
-           id="g4569">
-          <rect
-             ry="2.0274682"
-             y="67.148209"
-             x="40.224064"
-             height="7.8336792"
-             width="28.012604"
-             id="rect4561"
-             style="fill:#ff1744;fill-opacity:1;stroke:none;stroke-width:1.02999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <text
-             id="text4567"
-             y="71.29409"
-             x="56.509892"
-             style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:2px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               id="tspan4563"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:2px;font-family:Dosis;-inkscape-font-specification:Dosis;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
+           id="g4624">
+          <g
+             id="g4569">
+            <rect
+               style="fill:#ff1744;fill-opacity:1;stroke:none;stroke-width:1.02999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect4561"
+               width="28.012604"
+               height="7.8336792"
+               x="40.224064"
+               y="67.148209"
+               ry="2.0274682" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:2px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="56.509892"
                y="71.29409"
-               x="56.509892"
-               sodipodi:role="line">Butter</tspan><tspan
-               id="tspan4565"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:2px;font-family:Dosis;-inkscape-font-specification:Dosis;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
-               y="73.480125"
-               x="56.509892"
-               sodipodi:role="line">Components</tspan></text>
+               id="text4567"><tspan
+                 sodipodi:role="line"
+                 x="56.509892"
+                 y="71.29409"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:2px;font-family:Dosis;-inkscape-font-specification:Dosis;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
+                 id="tspan4563">Butter</tspan><tspan
+                 sodipodi:role="line"
+                 x="56.509892"
+                 y="73.480125"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:2px;font-family:Dosis;-inkscape-font-specification:Dosis;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332px"
+                 id="tspan4565">Components</tspan></text>
+          </g>
         </g>
+        <image
+           transform="translate(27.355866,19.681395)"
+           clip-path="url(#clipPath4672)"
+           y="41.232082"
+           x="24.60824"
+           id="image4531"
+           style="image-rendering:optimizeQuality"
+           preserveAspectRatio="none"
+           height="20.39863"
+           width="22.484076"
+           xlink:href="file:///home/xaiki/src/Butter/artworks/Butter/Official/extensions/buttercomponents.png"
+           sodipodi:absref="/home/xaiki/src/Butter/artworks/Butter/Official/extensions/buttercomponents.png" />
+        <image
+           clip-path="url(#clipPath4653)"
+           width="22.484076"
+           height="20.39863"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeQuality"
+           id="image4647"
+           x="34.644447"
+           y="60.522457"
+           xlink:href="file:///home/xaiki/src/Butter/artworks/Butter/Official/extensions/buttercomponents.png"
+           sodipodi:absref="/home/xaiki/src/Butter/artworks/Butter/Official/extensions/buttercomponents.png" />
       </g>
-      <image
-         sodipodi:absref="/home/xaiki/src/Butter/artworks/Butter/Official/extensions/buttercomponents.png"
-         xlink:href="file:///home/xaiki/src/Butter/artworks/Butter/Official/extensions/buttercomponents.png"
-         width="22.484076"
-         height="20.39863"
-         preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
-         id="image4531"
-         x="24.60824"
-         y="41.232082"
-         clip-path="url(#clipPath4672)"
-         transform="translate(27.355866,19.681395)" />
-      <image
-         sodipodi:absref="/home/xaiki/src/Butter/artworks/Butter/Official/extensions/buttercomponents.png"
-         xlink:href="file:///home/xaiki/src/Butter/artworks/Butter/Official/extensions/buttercomponents.png"
-         y="60.522457"
-         x="34.644447"
-         id="image4647"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="20.39863"
-         width="22.484076"
-         clip-path="url(#clipPath4653)" />
     </g>
     <g
        id="g4842"
